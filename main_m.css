@@ -11,7 +11,7 @@
 }
 
 .btn-refresh {
-    position: absolute;
+    position: relative;
     top: 15%;
     left: 45%;
     transform: translate(-50%, -50%);
