@@ -12,13 +12,12 @@
 
 .btn-refresh {
     position: absolute;
-    top: 10%;
+    top: 5%;
     left: 50%;
     transform: translate(-50%, -50%);
     border: none;
-    /*width: 25px;
-    height: 25px;*/
-    text-align: center;
+    width: 45px;
+    height: 45px;
 }
 
 .photo-area {
